@@ -1,0 +1,840 @@
+Capítulo Cuatro
+Reglas de origen y procedimientos de origen
+
+Sección A - Reglas de origen
+
+Artículo 4.1:
+
+Mercancías originarias
+
+1.
+Salvo que en este Capítulo se disponga otra cosa, una mercancía es originaria
+cuando:
+(a)
+
+la mercancía se obtiene en su totalidad o es producida enteramente en el
+territorio de una o de ambas Partes;
+
+(b)
+
+la mercancía es producida enteramente en el territorio de una o de ambas
+Partes y
+(i)
+
+cada uno de los materiales no originarios utilizados en la producción
+de la mercancía sea objeto del correspondiente cambio de
+clasificación arancelaria especificado en el Anexo 4.1, o
+
+(ii)
+
+la mercancía por otra parte cumpla con el correspondiente valor de
+contenido regional u otro requisito especificado en el Anexo 4.1,
+
+y la mercancía satisfaga
+capítulo; o
+(c)
+
+todos los demás requisitos aplicables de este
+
+la mercancía es producida enteramente en el territorio de una o de ambas
+Partes exclusivamente a partir de materiales originarios.
+
+2.
+Una mercancía no se considerará mercancía originaria y un material no se
+considerará material originario por el hecho de haber sido sometido a:
+(a)
+
+operaciones simples de combinación o empaque, o
+
+(b)
+
+una simple dilución con agua u otra sustancia que no altere materialmente las
+características de la mercancía o material.
+
+Artículo 4.2:
+
+Valor de contenido regional
+
+1.
+Cuando el Anexo 4.1 especifique un criterio de valor de contenido regional para
+determinar si una mercancía es originaria, cada Parte dispondrá que la persona que solicita
+tratamiento arancelario preferencial para la mercancía pueda calcular el valor de contenido
+regional sobre la base de alguno de los siguientes métodos:
+(a)
+
+Método de reducción
+
+VCR =
+
+VA – VMN x 100
+-----------VA
+4-1
+
+(b)
+
+Método de aumento
+
+VCR =
+
+VMO
+-----------VA
+
+x 100
+
+donde:
+VCR es el valor de contenido regional expresado como porcentaje;
+VA
+es el valor ajustado;
+VMN es el valor de los materiales no originarios utilizados por el productor
+en la elaboración de la mercancía; y
+VMO es el valor de los materiales originarios utilizados por el productor en
+la elaboración de la mercancía.
+
+Artículo 4.3:
+
+Valor de los materiales
+
+1.
+Cada Parte dispondrá que, con el objeto de calcular el valor de contenido regional de
+una mercancía y con el fin de aplicar la regla de minimis, el valor de un material:
+(a)
+
+en el caso de un material importado por el productor de la mercancía, es el
+valor ajustado del material con respecto a esa importación;
+
+(b)
+
+en el caso de un material adquirido en el territorio donde se elabore la
+mercancía, es el precio efectivamente pagado o que deberá pagar el
+productor por el material, salvo para materiales conforme al subpárrafo (c);
+
+(c)
+
+en el caso de un material suministrado al productor sin cargo, o a un precio
+que refleje un descuento o rebaja similar, es determinado por la suma de:
+
+(d)
+
+(i)
+
+todos los gastos en que se incurriere en el cultivo, producción o
+fabricación del material, incluidos los gastos generales, y
+
+(ii)
+
+un monto por utilidades; y
+
+en el caso de un material auto-producido, es determinado por la suma de:
+(i)
+
+todos los gastos en que se incurriere en la producción del material,
+incluidos los gastos generales; y
+
+(ii)
+
+un monto por utilidades.
+
+2.
+Cada Parte dispondrá que la persona que solicita tratamiento arancelario preferencial
+para una mercancía pueda ajustar el valor de los materiales de la siguiente manera:
+(a)
+
+para los materiales originarios, los siguientes gastos deben ser sumados al
+valor del material cuando éstos no estén incluidos en el párrafo 1:
+(i)
+
+los costos de flete, seguro, empaque, y todos los demás costos en que
+se incurriere en el transporte del material hasta el lugar donde está
+ubicado el productor;
+
+4-2
+
+(b)
+
+Artículo 4.4:
+
+(ii)
+
+derechos, impuestos y honorarios de agentes de aduana pagados
+respecto del material en el territorio de una o de ambas Partes, salvo
+derechos e impuestos respecto de los cuales se aplicare exención,
+reembolsados, reembolsables o recuperables en otros términos,
+incluido el crédito por derechos o impuestos pagados o por pagar, y
+
+(iii)
+
+el costo de desechos y desperdicios derivados del uso del material en
+la elaboración de la mercancía, menos el valor de los desechos
+renovables o subproductos.
+
+en el caso de los materiales no originarios se podrán deducir los siguientes
+gastos del valor del material, si éstos estuviesen incluidos en el párrafo 1:
+(i)
+
+los costos de flete, seguro, empaque, y todos los demás costos en que
+se incurriere en el transporte del material hasta el lugar donde está
+ubicado el productor,
+
+(ii)
+
+derechos, impuestos y honorarios de agentes de aduana pagados
+respecto del material en el territorio de una o de ambas Partes, salvo
+derechos e impuestos respecto de los cuales se aplicare exención,
+reembolsados, reembolsables o recuperable s en otros términos,
+incluido el crédito por derechos o impuestos pagados o por pagar,
+
+(iii)
+
+el costo de desechos y desperdicios derivados del uso del material en
+la elaboración de la mercancía, menos el valor de los desechos
+renovables o subproductos, y
+
+(iv)
+
+el costo de los materiales originarios utilizados en la elaboración de
+materiales no originarios en el territorio de una Parte.
+Accesorios, repuestos y herramientas
+
+Cada Parte dispondrá que los accesorios, repuestos o herramientas entregados con la
+mercancía y que formen parte de los accesorios, repuestos o herramientas usuales de la
+mercancía, se considerarán como un material usado en la producción de la mercancía,
+siempre que:
+(a)
+
+los accesorios, repuestos o herramientas estén clasificados con la mercancía
+y no se facturen por separado; y
+
+(b)
+
+las cantidades y el valor de los accesorios, repuestos o herramientas sean
+los usuales respecto de la mercancía.
+
+Artículo 4.5:
+
+Mercancías y materiales fungibles
+
+1.
+Cada Parte dispondrá que la persona que solicita tratamiento arancelario preferencial
+para una mercancía pueda solicitar que un material o mercancía fungible sea originario
+basado, ya sea en una segregación física de cada mercancía o material fungible o utilizando
+cualquier método de manejo de inventarios, tales como método promedio, método último
+que entra primero que sale o método primero que entra primero que sale, reconocidos en los
+Principios de Contabilidad Generalmente Aceptados de la Parte en que se realizare la
+producción, o aceptado de otra forma por la Parte en que se realizare la producción.
+2.
+
+Cada Parte dispondrá que cuando se elija un método de manejo de inventarios, de
+4-3
+
+acuerdo a lo establecido en el párrafo 1, para determinados materiales o mercancías
+fungibles, éste deberá continuar usándose para esas mercancías o materiales a través de
+todo el año fiscal de la persona que eligió el método de manejo de inventarios.
+Artículo 4.6:
+
+Acumulación
+
+1.
+Cada Parte dispondrá que las mercancías o materiales originarios de una Parte,
+incorporados a una mercancía en el territorio de la otra Parte, se considerarán originarios
+del territorio de esa otra Parte.
+2.
+Cada Parte dispondrá que una mercancía es originaria, cuando la mercancía es
+producida en el territorio de una o de ambas Partes, por uno o más productores, siempre que
+la mercancía cumpla los requisitos del artículo 4.1 y los demás requisitos aplicables de este
+Capítulo.
+Artículo 4.7:
+
+Regla de minimis
+
+1.
+Cada Parte dispondrá que una mercancía que no cambie de clasificación arancelaria
+conforme al Anexo 4.1 se considerará sin embargo originaria si el valor de todos los
+materiales no originarios utilizados en la producción de la mercancía y que no fueren objeto
+del cambio requerido en la clasificación arancelaria, no excediere del 10 por ciento del valor
+ajustado de la mercancía, siempre que el valor de esos materiales no originarios se incluya
+en el valor de los materiales no originarios para cualquier requisito de valor de contenido
+regional aplicable, y que la mercancía cumpla con todos los demás requisitos aplicables de
+este Capítulo.
+2.
+
+El párrafo 1 no se aplica a:
+(a)
+
+un material no originario clasificado en el capítulo 4 del Sistema
+Armonizado, o preparaciones lácteas no originarias que contengan más del
+10 por ciento de sólidos lácteos en peso, incluidas en las subpartidas
+1901.90 ó 2106.90 del Sistema Armonizado y que se utilicen en la
+elaboración de una mercancía clasificada en el capítulo 4 del Sistema
+Armonizado;
+
+(b)
+
+un material no originario clasificado en el capítulo 4 del Sistema
+Armonizado, o preparaciones lácteas no originarias que contengan más del 10
+por ciento de sólidos lácteos en peso, que se incluyan en la subpartida
+1901.90 del Sistema Armonizado y que se utilicen en la elaboración de las
+siguientes mercancías: preparaciones infantiles, que contengan más del 10
+por ciento de sólidos lácteos en peso, incluidas en la subpartida 1901.10 del
+Sistema Armonizado; mezclas y pastas que contengan más del 25 por ciento
+en peso de grasa de mantequilla, no acondicionadas para venta al detalle,
+incluidas en la subpartida 1901.20 del Sistema Armonizado; preparaciones
+lácteas que contengan más del 10 por ciento de sólidos lácteos en peso,
+incluidas en las subpartidas 1901.90 ó 2106.90 del Sistema Armonizado;
+mercancías incluidas en la partida 2105 del Sistema Armonizado; bebidas
+que contengan leche, incluidas en la subpartida 2202.90 del Sistema
+Armonizado; o alimentos para animales que contengan más del 10 por ciento
+de sólidos ál cteos en peso, incluidos en la subpartida 2309.90 del Sistema
+Armonizado;
+
+(c)
+
+un material no originario incluido en la partida 0805 del Sistema Armonizado
+o en las subpartidas 2009.11 a 2009.30 del Sistema Armonizado, que se
+4-4
+
+utilice en la elaboración de una mercancía incluida en las subpartidas 2009.11
+a 2009.30 del Sistema Armonizado, o en los jugos vegetales o de frutas de
+una sola fruta o vegetal, fortificados con minerales o vitaminas, concentrados
+o no concentrados, que se incluyen en las subpartidas 2106.90 ó 2202.90 del
+Sistema Armonizado;
+(d)
+
+un material no originario incluido en el capítulo 15 del Sistema Armonizado,
+que se utilice en la elaboración de una mercancía incluida en las partidas
+1501 a 1508; 1512, 1514 ó 1515 del Sistema Armonizado;
+
+(e)
+
+un material no originario incluido en la partida 1701 del Sistema
+Armonizado, que se utilice en la elaboración de una mercancía incluida en
+las partidas 1701 a 1703 del Sistema Armonizado;
+
+(f)
+
+un material no originario incluido en el capítulo 17 o en la partida 1805 del
+Sistema Armonizado, que se utilice en la elaboración de una mercancía
+incluida en la subpartida 1806.10 del Sistema Armonizado;
+
+(g)
+
+un material no originario incluido en las partidas 2203 a 2208 del Sistema
+Armonizado, que se utilice en la elaboración de una mercancía incluida en
+las partidas 2207 ó 2208 del Sistema Armonizado; y
+
+(h)
+
+un material no originario utilizado en la elaboración de una mercancía
+incluida en los capítulos 1 a 21 del Sistema Armonizado, a menos que el
+material no originario estuviere incluido en una subpartida distinta a la de la
+mercancía respecto de la cual se determine el origen conforme a este
+artículo.
+
+3.
+Con respecto a las mercancías textiles y vestuario incluidas en los capítulos 50 a 63
+del Sistema Armonizado, el artículo 3.20(6) (Reglas de origen y materias relacionadas) se
+aplicará en reemplazo del párrafo 1.
+Artículo 4.8:
+
+Materiales indirectos utilizados en la producción
+
+Cada Parte dispondrá que un material indirecto será considerado material originario
+independientemente del lugar en que se produzca.
+Artículo 4.9:
+
+Materiales de empaque y contenedores para venta al detalle
+
+Cada Parte dispondrá que los materiales de empaque y contenedores en los que se
+envasa una mercancía para su venta al detalle no se considerarán, si estuvieren clasificados
+con la mercancía, al determinar si todos los materiales no originarios utilizados en la
+elaboración de la mercancía son objeto del cambio aplicable en la clasificación arancelaria
+señalada en el Anexo 4.1 y, si la mercancía estuviere supeditada a un requisito de valor de
+contenido regional, el valor de esos materiales de empaque y de los contenedores se
+considerará como material originario o no originario, según correspondiere, al calcular el
+valor de contenido regional de la mercancía.
+Artículo 4.10:
+
+Materiales de embalaje y contenedores para embarque
+
+Cada Parte dispondrá que los materiales de embalaje y contenedores en los que se
+embale una mercancía para embarque no se considerarán al determinar:
+(a)
+
+si los materiales no originarios utilizados en la elaboración de la mercancía
+4-5
+
+cumplen con el correspondiente cambio de clasificación arancelaria según lo
+establecido en el Anexo 4.1; y
+(b)
+Artículo 4.11:
+
+si la mercancía cumple con un requisito de valor de contenido regional.
+Tránsito y transbordo
+
+1.
+Cada Parte dispondrá que una mercancía no será considerada mercancía originaria si
+fuere objeto de producción posterior o de cualquier otra operación fuera de los territorios de
+las Partes, distinto de la descarga, transbordo o cualquier otro proceso necesario para
+preservar la mercancía en buenas condiciones o para transportarla al territorio de una Parte.
+2.
+La Parte importadora podrá requerir que una persona que solicita que una mercancía
+es originaria demuestre, a satisfacción de las autoridades aduaneras de la Parte importadora,
+que cualquiera operación posterior llevada a cabo fuera de los territorios de las Partes
+cumple con los requisitos señalados en el párrafo 1.
+Sección B - Procedimientos de origen
+Artículo 4.12:
+
+Solicitud de origen
+
+1.
+Cada Parte requerirá que un importador que solicita tratamiento arancelario
+preferencial para una mercancía:
+(a)
+
+formule una declaración por escrito en el documento de importación en
+cuanto a que la mercancía califica como originaria;
+
+(b)
+
+esté preparado para presentar, a solicitud de la autoridad aduanera de la Parte
+importadora, un certificado de origen u otra información en que conste que la
+mercancía califica como originaria;
+
+(c)
+
+formule sin demora una declaración corregida y pague cualquier derecho
+adeudado cuando el importador tuviere razones para creer que el certificado o
+la demás información en que se hubiere basado la declaración es incorrecta.
+
+2.
+Cada Parte, cuando sea apropiado, podrá requerir que un importador que solicita
+tratamiento arancelario preferencial para una mercancía demuestre a la autoridad aduanera
+de esa Parte que la mercancía califica como originaria conforme a la Sección A, incluyendo
+que la mercancía cumpla con los requisitos del artículo 4.11.
+3.
+Cada Parte dispondrá que, en el caso que una mercancía originaria fuere importada al
+territorio de esa Parte sin haber solicitado tratamiento arancelario preferencial a la fecha de
+su importación, el importador de la mercancía podrá, a más tardar un año después de esa
+fecha, solicitar el reembolso de cualquier derecho pagado en exceso como consecuencia del
+hecho de que no se hubiere otorgado tratamiento arancelario preferencial a la mercancía,
+debiendo presentar:
+(a)
+
+una declaración por escrito en cuanto a que la mercancía califica como
+originaria a la fecha de importación;
+
+(b)
+
+una copia de un certificado de origen u otra información en que conste que la
+mercancía califica como originaria; y
+
+4-6
+
+(c)
+
+Artículo 4.13:
+
+la demás documentación relacionada con la importación de la mercancía que
+la Parte importadora pudiere exigir.
+Certificados de origen
+
+1.
+Cada Parte dispondrá que un importador pueda cumplir con el requisito establecido
+en el artículo 4.12(1)(b) mediante la entrega de un certificado de origen que establezca la
+base para sostener válidamente que la mercancía es originaria. Cada Parte dispondrá que no
+se requerirá que el certificado de origen se extienda en un formato predeterminado y las
+Partes podrán disponer que ese certificado se pueda presentar por vía electrónica.
+2.
+Cada Parte dispondrá que un certificado de origen pueda ser emitido por el
+importador, exportador o productor de la mercancía. Cuando un exportador o importador no
+sea el productor de la mercancía, cada Parte dispondrá que el importador o exportador
+pueda emitir el certificado de origen sobre la base de:
+(a)
+
+un certificado de origen emitido por el productor; o
+
+(b)
+
+conocimiento por parte del importador o exportador que la mercancía califica
+como originaria.
+
+3.
+Cada Parte dispondrá que el certificado de origen pueda amparar la importación de
+una o más mercancías o varias importaciones de mercancías idénticas, dentro del período
+especificado en el certificado.
+4.
+Cada Parte dispondrá que el certificado de origen tendrá una validez de cuatro años a
+contar de la fecha de su emisión.
+5.
+Cada Parte podrá exigir que un certificado de origen respecto de una mercancía
+importada a su territorio se complete ya sea en español o inglés.
+6.
+En el caso de una mercancía originaria importada al territorio de una Parte en o
+después de la fecha de entrada en vigor de este Tratado, cada Parte aceptará un certificado
+de origen que hubiere sido emitido antes de esa fecha por el importador, exportador o
+productor de la mercancía, a menos que la Parte poseyere información que indicare que el
+certificado carece de validez.
+7.
+Ninguna Parte podrá requerir un certificado de origen o información que demuestre
+que la mercancía califica como originaria para:
+(a)
+
+la importación de mercancías cuyo valor aduanero no excediere de 2.500
+dólares de Estados Unidos o su equivalente en moneda de Chile, o un monto
+superior que pueda ser establecido por la Parte importadora; o
+
+(b)
+
+la importación de otras mercancías que puedan ser identificadas en la
+legislación de la Parte importadora que rijan las solicitudes de origen de
+conformidad con este Tratado,
+
+salvo que la importación pudiera considerarse como realizada o planificada con el fin de
+evadir el cumplimiento de la legislación de esa Parte que rijan las solicitudes de origen de
+conformidad con este Tratado.
+Artículo 4.14:
+
+Obligaciones en relación con las importaciones
+
+4-7
+
+1.
+Cada Parte dispondrá que el importador sea responsable de presentar el certificado
+de origen u otra información que demuestre que la mercancía califica como originaria, de la
+veracidad de la información y de los datos contenidos en dicho instrumento, de presentar, a
+solicitud de la autoridad aduanera de la Parte, documentos en los cuales se basare el
+certificado, y de la veracidad de la información contenida en dichos documentos.
+2.
+Cada Parte dispondrá que el hecho de que el importador hubiere emitido el
+certificado de origen basado en la información proporcionada por el exportador o productor
+no liberará al importador de la responsabilidad señalada en el párrafo 1.
+3.
+Cada Parte dispondrá que un importador que solicita tratamiento arancelario
+preferencial para una mercancía importada al territorio de esa Parte mantendrá por un
+período de cinco años posteriores a la fecha de importación de la mercancía, un certificado
+de origen u otra información que demuestre que la mercancía califica como originaria, y
+todos los demás documentos relacionados con la importación de la mercancía que la Parte
+pueda exigir, incluidos los registros asociados con:
+(a)
+
+la compra, costo, valor y pago de la mercancía;
+
+(b)
+
+cuando correspondiere, la compra, costo, valor y pago de todos los
+materiales, incluidas las mercancías recuperadas y los materiales indirectos
+utilizados en la elaboración de la mercancía; y
+
+(c)
+
+cuando correspondiere, la elaboración de la mercancía en su forma exportada.
+
+Artículo 4.15:
+
+Obligaciones en relación con las exportaciones.
+
+1.
+Para los efectos de la cooperación establecida en el artículo 5.5 (Cooperación), cada
+Parte dispondrá que un exportador o productor que emitiere un certificado de origen para
+una mercancía exportada desde el territorio de esa Parte proporcione una copia del
+certificado a solicitud de la autoridad aduanera de esa Parte.
+2.
+Cada Parte dispondrá que un exportador o productor que emitiere un certificado de
+origen mantenga, por un período de al menos cinco años a contar de la fecha de emisión del
+certificado, todos los registros y documentos de respaldo relacionados con el origen de las
+mercancías, lo que incluye:
+(a)
+
+la compra, costo, valor y pago de la mercancía exportada;
+
+(b)
+
+cuando correspondiere, la compra, costo, valor y pago de todos los materiales
+- incluidas las mercancías recuperadas - utilizados en la elaboración de la
+mercancía exportada; y
+
+(c)
+
+cuando correspondiere, la elaboración de la mercancía en la forma en que
+fuere exportada.
+
+3.
+Cada Parte dispondrá que cuando un exportador o productor que emitiere un
+certificado de origen tuviere razones para creer que el certificado contiene o se basa en
+información incorrecta, el exportador o productor deberá notificar por escrito de inmediato
+cualquier cambio que pudiere afectar la exactitud o validez de la certificación de origen a
+cada persona a la que se hubiere emitido un certificado. Las Partes no impondrán sanciones
+a un exportador o productor que en su territorio emita un certificado incorrecto si
+voluntariamente entrega una notificación escrita conforme a lo señalado en este párrafo.
+
+4-8
+
+Artículo 4.16:
+
+Procedimientos para la verificación del origen.
+
+1.
+Cada Parte autorizará cualquier solicitud de tratamiento arancelario preferencial
+llevada a cabo conforme a esta Sección, a menos que la Parte posea información indicando
+que la solicitud del importador no cumple con los requerimientos correspondientes a la
+Sección A o el artículo 3.20 (Reglas de origen y materias relacionadas), excepto que se
+disponga algo distinto en el artículo 3.21 (Cooperación aduanera).
+2.
+Para determinar si una mercancía que es importada califica como originaria, la Parte
+importadora podrá, a través de su autoridad aduanera, verificar el origen de acuerdo con las
+normas establecidas en sus leyes y regulaciones aduaneras.
+3.
+Cuando una Parte denegare una solicitud de tratamiento arancelario preferencial,
+emitirá por escrito una resolución de origen que contenga las determinaciones de hecho y
+fundamentos jurídicos. Dicha resolución deberá emitirse dentro del período establecido
+conforme a su legislación interna.
+4.
+Una Parte no impondrá sanciones por haber formulado una declaración incorrecta a
+un importador que voluntariamente formulare una declaración corregida.
+5.
+Cuando una Parte determine a través de una verificación que el importador ha
+certificado más de una vez en forma falsa o sin fundamentos que una mercancía califica
+como originaria, la Parte podrá suspender el tratamiento arancelario preferencial a las
+mercancías idénticas importadas por esa persona hasta que la misma demostrare que ha
+cumplido con las leyes y regulaciones de esa Parte que rigen las solicitudes de origen de
+conformidad con este Tratado.
+6.
+Cada Parte que realizare una verificación de origen en que fueren pertinentes los
+Principios de Contabilidad Generalmente Aceptados, deberá aplicar esos principios en la
+forma en que se aplicaren en el territorio de la Parte desde la cual se hubiere exportado la
+mercancía.
+Artículo 4.17:
+
+Directrices comunes
+
+Antes de la entrada en vigor del Tratado, las Partes acordarán y publicarán
+directrices comunes para la interpretación, aplicación y administración de este Capítulo y las
+disposiciones pertinentes del Capítulo Tres (Trato nacional y acceso al mercado de
+mercancías). En caso que corresponda, las Partes podrán posteriormente acordar modificar
+las directrices comunes.
+
+Sección C – Definiciones
+Artículo 4.18:
+
+Definiciones
+
+Para los efectos de este Capítulo:
+emitido significa preparado por y, cuando lo exijan las leyes y regulaciones internas,
+firmado por el importador, exportador o productor de la mercancía;
+exportador significa una persona quien exporta mercancías desde el territorio de una Parte;
+importador significa una persona quien importa mercancías al territorio de una Parte;
+
+4-9
+
+material significa una mercancía utilizada en la producción de otra mercancía, incluyendo
+una parte, ingrediente o material indirecto;
+material auto-producido significa un material originario, que es elaborado por un
+productor de una mercancía y utilizado en la fabricación de esa mercancía;
+materiales de embalaje y contenedores para embarques significa mercancías utilizadas
+para proteger una mercancía durante su transporte, distinta de los contenedores o del
+material de empaque utilizados para su venta al detalle;
+material indirecto significa una mercancía utilizada en la producción, prueba o inspección
+de una mercancía pero no incorporada físicamente a la mercancía, o una mercancía utilizada
+en el mantenimiento de edificios o en la operación de equipos asociados a la elaboración de
+una mercancía, lo que incluye:
+(a)
+
+combustible y energía;
+
+(b)
+
+herramientas, troqueles y moldes;
+
+(c)
+
+repuestos y materiales utilizados en el mantenimiento de equipos y edificios;
+
+(d)
+
+lubricantes, grasas, materiales compuestos y otros materiales utilizados en la
+producción o utilizados para operar equipos y edificios;
+
+(e)
+
+guantes, anteojos, calzado, vestuario, equipo y suministros de seguridad;
+
+(f)
+
+equipos, artefactos y suministros utilizados para probar o inspeccionar
+mercancías;
+
+(g)
+
+catalizadores y solventes, y
+
+(h)
+
+cualquier otra mercancía que no se incorpore a la mercancía pero que se
+demostrare que su uso en la elaboración de la mercancía es parte de la
+elaboración;
+
+mercancía significa cualquier mercancía, producto, artículo o material;
+mercancía no originaria o material no originario significa una mercancía o material que
+no califica como originaria conforme a este Capítulo;
+mercancías o materiales fungibles significa mercancías o materiales que son
+intercambiables para efectos comerciales y cuyas características son esencialmente
+idénticas;
+mercancías recuperadas significa materiales en forma de partes individuales que son
+resultado (1) del desmontaje completo de mercancías usadas, en sus piezas individuales; y
+(2) de limpieza, inspección, prueba u otro procesamiento de esas partes, en la medida que
+sea necesario para el logro de buenas condiciones de trabajo, uno o más de los siguientes
+procesos: soldadura, pulverización térmica, maquinado de superficies, moleteado,
+enchapado, enfundado y rebobinado con el fin de que esas piezas se ensamblen con otras, lo
+que incluye otras piezas recuperadas en la elaboración de una mercancía remanufacturada
+del Anexo 4.18;
+mercancías obtenidas en su totalidad o producidas enteramente en el territorio de una
+4-10
+
+o de ambas Partes significa:
+(a)
+
+mercancías minerales extraídas en el territorio de una o de ambas Partes;
+
+(b)
+
+mercancías vegetales, según su definición en el Sistema Armonizado,
+cosechadas en el territorio de una o de ambas Partes;
+
+(c)
+
+animales vivos, nacidos y criados en el territorio de una o de ambas Partes;
+
+(d)
+
+mercancías obtenidas de la caza, captura o pesca en el territorio de una o de
+ambas Partes;
+
+(e)
+
+mercancías extraídas del mar (pescados, mariscos y otras forma de vida
+marina) por naves que estuvieren registradas o matriculadas en una Parte y
+que enarbolaren su bandera;
+
+(f)
+
+mercancías elaboradas a bordo de naves factoría sobre la base de las
+mercancías citadas en el subpárrafo (e), siempre que dichas naves factoría
+estuvieren registradas o matriculadas en esa Parte y enarbolaren su bandera;
+
+(g)
+
+mercancías extraídas, por una Parte o una persona de una Parte, del suelo
+marino o del subsuelo marino fuera de las aguas territoriales, siempre que la
+Parte tuviere derechos para explotar ese suelo marino;
+
+(h)
+
+mercancías obtenidas del espacio exterior, siempre que fueren obtenidas por
+una Parte o persona de una Parte y que no fueren procesadas en el territorio
+de un país no Parte;
+
+(i)
+
+desechos y restos derivados de:
+(i)
+
+la producción en el territorio de una o de ambas Partes, o
+
+(ii)
+
+mercancías usadas recolectadas en el territorio de una o de ambas
+Partes, con la condición de que dichas mercancías sólo sirvan para la
+recuperación de materias primas;
+
+(j)
+
+mercancías recuperadas, obtenidas en el territorio de una Parte, de
+mercancías usadas, y utilizadas en el territorio de esa Parte en la elaboración
+de mercancías remanufacturadas; y
+
+(k)
+
+mercancías elaboradas en el territorio de una o de ambas Partes
+exclusivamente a partir de las mercancías citadas en los subpárrafos (a) a (i),
+o de sus derivados, en cualquier etapa de producción;
+
+Principios de Contabilidad Generalmente Aceptados significa los principios, reglas y
+procedimientos, incluidos amplias y específicas directrices, que definen las prácticas
+contables aceptadas en el territorio de una Parte;
+producción significa cultivo, extracción, cosecha, pesca, crianza, captura, caza, fabricación,
+procesamiento, ensamblaje o desmontaje de una mercancía;
+productor significa una persona que se ocupa de al producción de una mercancía en el
+territorio de una Parte;
+
+4-11
+
+mercancías remanufacturadas significa determinadas mercancías industriales,
+ensambladas en el territorio de una Parte, designadas en el Anexo 4.18 que (1) estén íntegra
+o parcialmente compuestas de materiales correspondientes a mercancías recuperadas; (2)
+tengan las mismas expectativas de vida y cumplan con las mismas normas de rendimiento
+que las mercancías nuevas; y (3) tengan la misma garantía de fábrica que las mercancías
+nuevas;
+ubicación del productor significa el lugar de producción de una mercancía;
+valor significa el valor de una mercancía o material con el objeto de calcular los aranceles
+aduaneros o con el fin de aplicar este Capítulo; y
+valor ajustado significa el valor determinado conforme a los Artículos 1 a 8 y 15 del
+Acuerdo sobre Valoración Aduanera y sus correspondientes notas interpretativas, ajustado,
+en caso necesario, para excluir todos los costos, cargos o gastos en que se incurriere por
+concepto de transporte, seguro y servicios relacionados inherentes al embarque internacional
+de mercancías desde el país de exportación hasta el lugar de importación.
+
+4-12
+
+Anexo 4.18
+Mercancías remanufacturadas
+Las mercancías clasificadas en las subpartidas del Sistema Armonizado señaladas a
+continuación podrán considerarse mercancías remanufacturadas, salvo aquellas destinadas
+exclusivamente para uso en las mercancías automotrices de las partidas o subpartidas 8702,
+8703, 8704.21, 8704.31, 8704,32, 8706 y 8707 del Sistema Armonizado:
+8408.10
+8408.20
+8408.90
+8409.91
+8409.99
+8412.21
+8412.29
+8412.39
+8412.90
+8413.30
+8413.50
+8413.60
+8413.91
+8414.30
+8414.80
+8414.90
+8419.89
+8431.20
+8431.49
+8481.20
+8481.40
+8481.80
+8481.90
+8483.10
+8483.30
+8483.40
+8483.50
+8483.60
+8483.90
+8503.00
+8511.40
+8511.50
+8526.10
+8537.10
+8542.21
+8708.31
+8708.39
+
+8708.40
+8708.60
+8708.70
+8708.93
+8708.99
+9031.49
+
+4-13
+
+
