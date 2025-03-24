@@ -18,11 +18,14 @@ from playwright.sync_api import sync_playwright
 
 # Constants
 BASE_URL = "https://www.aduana.cl"
-FTA_PAGE_URL = f"{BASE_URL}/tratado-de-libre-comercio-chile-estados-unidos/"
+FTA_PAGE_URL = f"{BASE_URL}/tratado-de-libre-comercio-chile-estados-unidos/aduana/2007-02-28/122217.html"
 DATABASE_PATH = "chile_fta_database.db"
 RULES_OF_ORIGIN_TEXT = "chile_us_fta_rules_of_origin.txt"
 CHAPTER4_TEXT = "chile_us_fta_chapter4.txt"
 COMMON_GUIDELINES_TEXT = "chile_us_fta_common_guidelines.txt"
+RULES_ORIGIN_PDF = "reglas_de_origen_capitulo4.pdf"
+ANNEX41_PDF = "reglas_especificas_anexo4.1.pdf"
+AMENDMENT_PDF = "enmienda_anexo4.1_2008.pdf"
 
 class ChileFtaScraper:
     """
@@ -103,7 +106,6 @@ class ChileFtaScraper:
             documents = []
             
             # Extract all document links from the page
-            # Look for text relevant to rules of origin, amendments, etc.
             document_links = soup.find_all('a', href=True)
             for link in document_links:
                 href = link.get('href')
@@ -112,18 +114,18 @@ class ChileFtaScraper:
                 if not title or not href:
                     continue
                 
-                # Filter for relevant documents
-                if ('origen' in title.lower() or 
-                    'annex' in title.lower() or 
-                    'anexo' in title.lower() or 
-                    'amendment' in title.lower() or 
-                    'enmienda' in title.lower() or
-                    'directrices' in title.lower() or
-                    'guidelines' in title.lower()):
+                # Filter for relevant documents using more specific criteria 
+                if any(term in title.lower() or term in href.lower() for term in [
+                    'origen', 'annex', 'anexo', 'amendment', 'enmienda', 
+                    'directrices', 'guidelines', 'capitulo 4', 'chapter 4'
+                ]):
                     
                     # Make sure URL is absolute
                     if not href.startswith('http'):
-                        href = f"{BASE_URL}{href}" if href.startswith('/') else f"{BASE_URL}/{href}"
+                        if href.startswith('/'):
+                            href = f"{BASE_URL}{href}"
+                        else:
+                            href = f"{BASE_URL}/{href}"
                     
                     document_type = self._determine_document_type(title)
                     
@@ -133,10 +135,51 @@ class ChileFtaScraper:
                         'type': document_type
                     })
             
+            # Add our known document URLs if they weren't found on the page
+            known_documents = [
+                {
+                    'title': 'Reglas de Origen Capítulo 4',
+                    'url': 'https://www.aduana.cl/aduana/site/docs/20070711/20070711153552/reglas_de_origen_capitulo_cuatro.pdf',
+                    'type': 'fta_chapter'
+                },
+                {
+                    'title': 'Reglas Específicas de Origen Texto Original Anexo 4.1',
+                    'url': 'https://www.aduana.cl/aduana/site/docs/20070711/20070711153552/04_anexo_reglas_especificas_origen.pdf',
+                    'type': 'original_rules'
+                },
+                {
+                    'title': 'Enmienda Anexo 4.1 Decreto N° 28 de 2008',
+                    'url': 'https://www.aduana.cl/aduana/site/docs/20070711/20070711153552/03___dto_28_27_mar_2008_completo.pdf',
+                    'type': 'amendment'
+                }
+            ]
+            
+            # Add known documents if they weren't found in the scraping
+            for doc in known_documents:
+                if not any(d['url'] == doc['url'] for d in documents):
+                    documents.append(doc)
+            
             return documents
         except Exception as e:
             print(f"Error getting FTA documents: {e}")
-            return []
+            # Return known documents as fallback
+            return [
+                {
+                    'title': 'Reglas de Origen Capítulo 4',
+                    'url': 'https://www.aduana.cl/aduana/site/docs/20070711/20070711153552/reglas_de_origen_capitulo_cuatro.pdf',
+                    'type': 'fta_chapter'
+                },
+                {
+                    'title': 'Reglas Específicas de Origen Texto Original Anexo 4.1',
+                    'url': 'https://www.aduana.cl/aduana/site/docs/20070711/20070711153552/04_anexo_reglas_especificas_origen.pdf',
+                    'type': 'original_rules'
+                },
+                {
+                    'title': 'Enmienda Anexo 4.1 Decreto N° 28 de 2008',
+                    'url': 'https://www.aduana.cl/aduana/site/docs/20070711/20070711153552/03___dto_28_27_mar_2008_completo.pdf',
+                    'type': 'amendment'
+                }
+            ]
     
     def _determine_document_type(self, title):
         """Determine the type of document from its title"""
@@ -158,15 +201,32 @@ class ChileFtaScraper:
     def download_document(self, url, filename):
         """Download a document from a URL"""
         try:
+            print(f"Downloading {url} to {filename}")
             response = self.session.get(url, verify=False)
             response.raise_for_status()
             
             with open(filename, 'wb') as f:
                 f.write(response.content)
             
+            print(f"Successfully downloaded {filename} ({len(response.content)} bytes)")
+            
+            # If it's a PDF, try to convert to text for easier processing
+            if filename.endswith('.pdf'):
+                text_filename = filename.replace('.pdf', '.txt')
+                try:
+                    import subprocess
+                    subprocess.run(['pdftotext', '-layout', filename, text_filename], check=True)
+                    print(f"Converted {filename} to {text_filename}")
+                except Exception as conv_err:
+                    print(f"Warning: Could not convert PDF to text: {conv_err}")
+            
             return filename
         except Exception as e:
             print(f"Error downloading document {url}: {e}")
+            # Check if the file already exists locally
+            if os.path.exists(filename):
+                print(f"Using existing local file: {filename}")
+                return filename
             return None
     
     def save_document_to_db(self, fta_name, doc_info, download_path=None):
@@ -372,28 +432,53 @@ def main():
         # Process each document
         for doc in documents:
             print(f"Processing document: {doc['title']}")
-            doc_id = scraper.save_document_to_db("Chile-US FTA", doc)
             
-            # If we have the file locally already, process it
-            # (This is for demonstration - normally we'd download from the website)
-            if 'original' in doc['type'] and os.path.exists(RULES_OF_ORIGIN_TEXT):
-                print(f"Parsing rules from: {RULES_OF_ORIGIN_TEXT}")
-                hts_rules = scraper.parse_rules_of_origin(RULES_OF_ORIGIN_TEXT)
-                print(f"Found {len(hts_rules)} HTS rules")
-                scraper.save_hts_rules_to_db("Chile-US FTA", hts_rules, doc_id)
+            # Determine filename
+            if 'origin' in doc['url'].lower() and 'cap' in doc['url'].lower() and doc['url'].endswith('.pdf'):
+                filename = RULES_ORIGIN_PDF
+            elif 'anexo' in doc['url'].lower() and 'reg' in doc['url'].lower() and doc['url'].endswith('.pdf'):
+                filename = ANNEX41_PDF
+            elif 'dto' in doc['url'].lower() and 'mar_2008' in doc['url'].lower() and doc['url'].endswith('.pdf'):
+                filename = AMENDMENT_PDF
+            else:
+                # Create a filename based on the document title
+                filename = re.sub(r'[^a-zA-Z0-9]', '_', doc['title'])[:30].lower() + '.pdf'
+            
+            # Download the document
+            download_path = scraper.download_document(doc['url'], filename)
+            
+            # Save to database
+            doc_id = scraper.save_document_to_db("Chile-US FTA", doc, download_path)
+            
+            # Process rules of origin if this is that document
+            if doc['type'] == 'original_rules' or 'anexo 4.1' in doc['title'].lower():
+                # Use either the downloaded text file or the existing one
+                rules_text = filename.replace('.pdf', '.txt')
+                if not os.path.exists(rules_text) and os.path.exists(RULES_OF_ORIGIN_TEXT):
+                    rules_text = RULES_OF_ORIGIN_TEXT
+                
+                if os.path.exists(rules_text):
+                    print(f"Parsing rules from: {rules_text}")
+                    hts_rules = scraper.parse_rules_of_origin(rules_text)
+                    print(f"Found {len(hts_rules)} HTS rules")
+                    scraper.save_hts_rules_to_db("Chile-US FTA", hts_rules, doc_id)
         
         # Step 5: Set up automated monitoring
         print("Setting up monitoring...")
         monitor_func = scraper.setup_automation()
         
         # Run monitoring once to check
-        result = monitor_func()
-        if result == 1:
-            print("Changes detected on first run")
-        elif result == 0:
-            print("No changes detected on first run")
-        else:
-            print("Error running monitoring")
+        try:
+            result = monitor_func()
+            if result == 1:
+                print("Changes detected on first run")
+            elif result == 0:
+                print("No changes detected on first run")
+            else:
+                print("Error running monitoring")
+        except Exception as e:
+            print(f"Warning: Monitoring setup failed, but documents were still processed: {e}")
+            print("This might be due to Playwright browser issues. Please install the browser dependencies or run without monitoring.")
         
         print("FTA scraping and monitoring setup complete.")
     finally:

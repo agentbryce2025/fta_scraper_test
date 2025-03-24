@@ -36,7 +36,7 @@ os.makedirs(SCREENSHOTS_DIR, exist_ok=True)
 
 # URLs to monitor
 URLS_TO_MONITOR = [
-    "https://www.aduana.cl/tratado-de-libre-comercio-chile-estados-unidos/",
+    "https://www.aduana.cl/tratado-de-libre-comercio-chile-estados-unidos/aduana/2007-02-28/122217.html",
     # Add more URLs as needed
 ]
 
